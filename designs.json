@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Pattern",
+    "image": "images/design1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Peacock Design",
+    "image": "images/design2.jpg"
+  }
+]
